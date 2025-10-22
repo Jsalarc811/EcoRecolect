@@ -33,7 +33,7 @@ cd /c/Users/TU_USUARIO/RUTA_CARPETA
 3. Después clona el repositorio mediante Git Bash:
 
 ```bash
-git clone https://github.com/JhoanRengi/EcoRecolect_2025.git
+git clone https://github.com/Jsalarc811/EcoRecolect
 ```
 NOTA: Ya podrás ver los documentos clonados.
 
